@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\circle_area_isosceles_triangle_22\x64\Debug\circle_area_isosceles_triangle_22.exe
+C:\Users\Hp\source\repos\solve_circle_area_isosceles_triangle_22\x64\Debug\circle_area_isosceles_triangle_22.exe

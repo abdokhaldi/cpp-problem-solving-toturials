@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\circle_area_dscrbd_ard_arbitrary_triangle_23\x64\Debug\circle_area_dscrbd_ard_arbitrary_triangle_23.exe
+C:\Users\Hp\source\repos\solve_circle_area_dscrbd_ard_arbitrary_triangle_23\x64\Debug\circle_area_dscrbd_ard_arbitrary_triangle_23.exe

@@ -1,0 +1,3 @@
+﻿  circle_area_dscrbd_ard_arbitrary_triangle_23.cpp
+C:\Users\Hp\source\repos\solve_circle_area_dscrbd_ard_arbitrary_triangle_23\circle_area_dscrbd_ard_arbitrary_triangle_23.cpp(25,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  circle_area_dscrbd_ard_arbitrary_triangle_23.vcxproj -> C:\Users\Hp\source\repos\solve_circle_area_dscrbd_ard_arbitrary_triangle_23\x64\Debug\circle_area_dscrbd_ard_arbitrary_triangle_23.exe

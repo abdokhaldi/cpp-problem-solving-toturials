@@ -1,0 +1,4 @@
+﻿  circle_area_isosceles_triangle_22.cpp
+C:\Users\Hp\source\repos\solve_circle_area_isosceles_triangle_22\circle_area_isosceles_triangle_22.cpp(17,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Hp\source\repos\solve_circle_area_isosceles_triangle_22\circle_area_isosceles_triangle_22.cpp(19,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  circle_area_isosceles_triangle_22.vcxproj -> C:\Users\Hp\source\repos\solve_circle_area_isosceles_triangle_22\x64\Debug\circle_area_isosceles_triangle_22.exe
